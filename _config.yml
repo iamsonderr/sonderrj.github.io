@@ -30,8 +30,14 @@ twitter_username: jekyllrb
 github_username:  jekyll
 
 # Build settings
-# theme: minima
+# theme: jekyll-theme-console
 remote_theme: b2a3e8/jekyll-theme-console
+style: light # dark (default), light or hacker
+header_pages:
+  - index.markdown
+  - about.markdown
+footer: 'contact us on email: sonderrj@foxmail.com'
+
 plugins:
   - jekyll-feed
 

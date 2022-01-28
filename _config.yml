@@ -36,7 +36,7 @@ style: light # dark (default), light or hacker
 header_pages:
   - index.markdown
   - about.markdown
-footer: 'contact us on email: sonderrj@foxmail.com'
+footer: 'contact me on email: sonderrj@foxmail.com'
 
 plugins:
   - jekyll-feed

@@ -1,0 +1,6 @@
+---
+layout: post
+title:  "my first blog!"
+date:   2022-02-06
+---
+This is my first blog!
